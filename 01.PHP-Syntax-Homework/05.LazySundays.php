@@ -10,7 +10,7 @@ for ($i = 1; $i <= $totalDays; $i++) {
     }
 }
 ?>
-<!--// Second Way-->
+<!--//Second Way-->
 <?php
 $currentMonth = date('m');
 $timestampSunday = strtotime("first Sunday of this month");
