@@ -1,5 +1,5 @@
 PHP-Basics
-==============
+===========
 
 PHP-Basics-Course
 
@@ -10,4 +10,3 @@ PHP-Basics-Course
 5.Exam Preparation
 6.Team Work Public Defense
 7.Practical exam
-
